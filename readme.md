@@ -50,6 +50,7 @@ Upon submission of the task, you are required to do the following;
 
 - If you feel you don't need the full time to complete the task, please do submit it earlier. On the other hand, if you are running short of time simply submit what you have before the deadline.
 - To submit your work, kindly fill out this form and provide answers to the questions as correctly as you can.
+  [Click here to fill form](https://docs.google.com/forms/d/e/1FAIpQLSd3g_5Z8qRknigVCX3-5JfIa6JDXBLNbxJeStjXP24AnTjGcg/viewform)
 
 ## Evaluation Criteria:
 
