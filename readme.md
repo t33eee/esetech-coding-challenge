@@ -1,7 +1,3 @@
-esetech dev
-1:50 PM (14 minutes ago)
-to me
-
 # Esetech - Coding Test
 
 Hello there! 👋
@@ -10,42 +6,38 @@ This describes a short coding test you’ll need to complete in order for us to 
 
 ## Project Overview:
 
-You are to produce a React JS SPA that accurately represents the provided details below. Create a simple user management application. The application should allow users to add, edit, delete, and list users information. Manipulate the response, and display the result to the user whilst enabling them to filter the list. Use React.js for the frontend, Node.js for the backend, and Firebase for data storage.
+You are to produce a React JS SPA that accurately represents the provided details below. Create a collaborative Note-Taking application. The application should allow authenticated users to create, edit, and delete their notes. Use React.js for the frontend, Node.js for the backend, and Firebase for data storage.
 
 ## Task Breakdown:
 
 ### Deadline:
 
-You are required to use a maximum of 3 hours for the attempt/completion of this task. Any submission made after the deadline WILL NOT be considered. We have a suggested time allocation below, however, you can allot your time as you wish.
+You are required to use a maximum of 3 hours 30 minutes for the attempt/completion of this task. Any submission made after the deadline WILL NOT be considered. We have a suggested time allocation below, however, you can allot your time as you wish.
 
-- 15 mins to read through these instructions and set up your project.
-- 2 hours and 30 minutes to code the task.
-- 15 mins to deploy code to GitHub Repo and submit the task.
+- 15 minutes to read through these instructions and set up your project.
+- 3 hours to code the task.
+- 15 minutes to deploy code to GitHub Repo and submit the task.
 
 ### Frontend (React.js):
 
-- Create a user interface for managing users.
-- Display a list of users with their basic information (name, username, email, address, etc.).
-- Implement functionality to add a new user.
-- Implement functionality to edit existing user details.
-- Implement functionality to delete a user.
+- Develop a responsive web application using React.js/Next.js
 - Use React for routing if necessary.
 - Apply Tailwind CSS for styling.
 
 ### Backend (Node.js):
 
-- Set up a simple server using Node.js to handle API requests.
-- Create APIs for CRUD operations on user data (Create, Read, Update, Delete).
+- Set up a Node.js server to handle backend functionality.
+- Create endpoints for notes, users, and collaborative features.
 - Connect the backend to Firebase.
-- Use Firebase Firestore to store user data.
-- Implement basic server-side validation for user data (e.g., email format validation).
-- Ensure proper error handling and validation in API requests.
+- Integrate Firebase for user authentication and data storage.
 
-### Integration (Firebase):
+### Functionality:
 
-- Set up a Firebase project to store user data.
-- Configure Firebase authentication (optional, if you want to add user-specific features).
-- Ensure that the frontend and backend communicate effectively with Firebase.
+- Users should be able to register, log in, and log out.
+- Authenticated users can create, edit, and delete their notes.
+- Implement real-time collaboration on notes, allowing multiple users to edit the same note simultaneously.
+- Add a version history feature, allowing users to review and revert to previous versions of a note.
+- Include user permissions for sharing notes with specific users or making them public.
 
 ### Styling:
 
@@ -68,4 +60,3 @@ Upon submission of the task, you are required to do the following;
 - Data storage and retrieval using Firebase.
 - Responsive and well-styled UI.
 - Error handling and validation.
-- Bonus points for additional features like user authentication.
